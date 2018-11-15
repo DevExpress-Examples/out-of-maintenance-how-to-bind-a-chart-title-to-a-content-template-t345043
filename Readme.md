@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/WeatherInLondon/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WeatherInLondon/MainWindow.xaml))**
+<!-- default file list end -->
 # How to bind a chart title to a content template
 
 
