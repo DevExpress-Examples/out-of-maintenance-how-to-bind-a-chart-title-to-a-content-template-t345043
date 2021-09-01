@@ -16,23 +16,23 @@ Imports System.Windows.Navigation
 Imports System.Windows.Shapes
 
 Namespace WeatherInLondon
-    ''' <summary>
-    ''' Interaction logic for MainWindow.xaml
-    ''' </summary>
-    Partial Public Class MainWindow
-        Inherits Window
+	''' <summary>
+	''' Interaction logic for MainWindow.xaml
+	''' </summary>
+	Partial Public Class MainWindow
+		Inherits Window
 
-        Public Sub New()
-            InitializeComponent()
+		Public Sub New()
+			InitializeComponent()
 
-        End Sub
-    End Class
+		End Sub
+	End Class
 
 
-    Public Class TitleItem
-        Public Property Text() As String
-        Public Property ImageSource() As String
-    End Class
+	Public Class TitleItem
+		Public Property Text() As String
+		Public Property ImageSource() As String
+	End Class
 End Namespace
 
 
